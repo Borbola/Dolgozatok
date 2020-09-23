@@ -1,0 +1,14 @@
+"B csoport"
+
+1,Mit jelent a <!DOCTYPE html> elem?
+Ez meghatározza, hogy a html melyik verziólyát foglyuk használni 
+
+2,Hogyan definiáljuk a belső stílust a head elemben?
+<head>
+    <link rel="stylesheet" href="név.css">
+</head>
+
+3,Emmet utasítás átírása: p>({példa: }+span{Ez itt egy példa}+{az emmet-ről.})
+<p>példa:</p>
+<p><span>Ez itt egy példa</span></p>
+<p>az emmet-ről</p>
